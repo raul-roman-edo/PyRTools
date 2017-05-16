@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PyRTools.iml" filepath="$PROJECT_DIR$/PyRTools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyrtools-core/pyrtools-core.iml" filepath="$PROJECT_DIR$/pyrtools-core/pyrtools-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pyrtools-ui-cards/pyrtools-ui-cards.iml" filepath="$PROJECT_DIR$/pyrtools-ui-cards/pyrtools-ui-cards.iml" />
+    </modules>
+  </component>
+</project>
